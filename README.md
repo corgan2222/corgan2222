@@ -17,17 +17,14 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat&logo=grafana&logoColor=white" />
 </p>
 
-### Infrastructure & Network Technologies
-<p>
-  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white" /> 
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" /> 
-</p>
+## Stats
 
-### Productivity & Communication Tools
-<p>
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" /> 
-  <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white" />
-</p>
+![](https://github.com/corgan2222/github-stats/blob/master/generated/overview.svg) ![](https://github.com/corgan2222/github-stats/blob/master/generated/languages.svg)
+
+
+## Latest activity
+
+<!--START_SECTION:activity-->
+
 <!--
 

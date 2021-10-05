@@ -25,11 +25,11 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+1. 🗣 Commented on [#299](https://github.com/h2zero/NimBLE-Arduino/issues/299) in [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
 2. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. ❗️ Opened issue [#77](https://github.com/ESPresense/ESPresense/issues/77) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-4. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-5. 🗣 Commented on [#1412](https://github.com/esphome/feature-requests/issues/1412) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+3. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. ❗️ Opened issue [#77](https://github.com/ESPresense/ESPresense/issues/77) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+5. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 <!--END_SECTION:activity-->
 
 <!--

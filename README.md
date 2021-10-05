@@ -26,10 +26,10 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-2. ❗️ Opened issue [#77](https://github.com/ESPresense/ESPresense/issues/77) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-4. 🗣 Commented on [#1412](https://github.com/esphome/feature-requests/issues/1412) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-5. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+2. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+3. ❗️ Opened issue [#77](https://github.com/ESPresense/ESPresense/issues/77) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+5. 🗣 Commented on [#1412](https://github.com/esphome/feature-requests/issues/1412) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
 <!--END_SECTION:activity-->
 
 <!--

@@ -26,10 +26,10 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
-2. 🗣 Commented on [#299](https://github.com/h2zero/NimBLE-Arduino/issues/299) in [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
-3. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+2. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
+3. 🗣 Commented on [#299](https://github.com/h2zero/NimBLE-Arduino/issues/299) in [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
 4. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-5. ❗️ Opened issue [#77](https://github.com/ESPresense/ESPresense/issues/77) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+5. 🗣 Commented on [#80](https://github.com/ESPresense/ESPresense/issues/80) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 <!--END_SECTION:activity-->
 
 <!--

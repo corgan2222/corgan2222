@@ -26,10 +26,10 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
-2. ❗️ Opened issue [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
-3. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
+2. 🗣 Commented on [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
+3. ❗️ Opened issue [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
 4. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
-5. 🗣 Commented on [#299](https://github.com/h2zero/NimBLE-Arduino/issues/299) in [h2zero/NimBLE-Arduino](https://github.com/h2zero/NimBLE-Arduino)
+5. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
 <!--END_SECTION:activity-->
 
 <!--

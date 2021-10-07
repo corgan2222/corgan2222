@@ -25,10 +25,10 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
+1. 💪 Opened PR [#83](https://github.com/ESPresense/ESPresense/pull/83) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 2. 🗣 Commented on [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
-3. ❗️ Opened issue [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
-4. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
+3. 🗣 Commented on [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
+4. ❗️ Opened issue [#37](https://github.com/Dalvany/dalvany-image-panel/issues/37) in [Dalvany/dalvany-image-panel](https://github.com/Dalvany/dalvany-image-panel)
 5. 🗣 Commented on [#7](https://github.com/corgan2222/extstats/issues/7) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
 <!--END_SECTION:activity-->
 

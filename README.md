@@ -14,11 +14,11 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#94](https://github.com/ESPresense/ESPresense/issues/94) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-2. 🗣 Commented on [#72](https://github.com/ESPresense/ESPresense/issues/72) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. 🗣 Commented on [#94](https://github.com/ESPresense/ESPresense/issues/94) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-4. 🎉 Merged PR [#1](https://github.com/corgan2222/unraid-templates/pull/1) in [corgan2222/unraid-templates](https://github.com/corgan2222/unraid-templates)
-5. 🗣 Commented on [#72](https://github.com/ESPresense/ESPresense/issues/72) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+1. 💪 Opened PR [#96](https://github.com/ESPresense/ESPresense/pull/96) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+2. 🗣 Commented on [#94](https://github.com/ESPresense/ESPresense/issues/94) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+3. 🗣 Commented on [#72](https://github.com/ESPresense/ESPresense/issues/72) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#94](https://github.com/ESPresense/ESPresense/issues/94) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+5. 🎉 Merged PR [#1](https://github.com/corgan2222/unraid-templates/pull/1) in [corgan2222/unraid-templates](https://github.com/corgan2222/unraid-templates)
 <!--END_SECTION:activity-->
 
 <!--

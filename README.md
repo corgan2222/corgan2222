@@ -14,11 +14,11 @@ I’m a Tech enthusiast, IT professional, Photographer and Filmmaker.
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-2. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. 💪 Opened PR [#29](https://github.com/b3rs3rk/gpustat-unraid/pull/29) in [b3rs3rk/gpustat-unraid](https://github.com/b3rs3rk/gpustat-unraid)
-4. 💪 Opened PR [#96](https://github.com/ESPresense/ESPresense/pull/96) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-5. 🗣 Commented on [#94](https://github.com/ESPresense/ESPresense/issues/94) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+1. ❗️ Closed issue [#2](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/2) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
+2. ❗️ Closed issue [#1](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/1) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
+3. ❗️ Opened issue [#2](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/2) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
+4. ❗️ Opened issue [#1](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/1) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
+5. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 <!--END_SECTION:activity-->
 
 <!--

@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Stefan!
-I’m a IoT Project Engineer, Developer, Tech enthusiast, IT professional, Photographer and Filmmaker.
+I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Photographer and Filmmaker.
 
 - 🔭 I’m currently working on ESP32 stuff, unraid, home automations
 - 🌱 I’m currently learning C#, ESP, Fusion360

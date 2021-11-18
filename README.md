@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#260](https://github.com/blakeblackshear/frigate/issues/260) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-2. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. 🗣 Commented on [#1412](https://github.com/esphome/feature-requests/issues/1412) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
-4. ❗️ Closed issue [#2](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/2) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
-5. ❗️ Closed issue [#1](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/1) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
+1. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+2. 🗣 Commented on [#260](https://github.com/blakeblackshear/frigate/issues/260) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+3. 🗣 Commented on [#73](https://github.com/ESPresense/ESPresense/issues/73) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#1412](https://github.com/esphome/feature-requests/issues/1412) in [esphome/feature-requests](https://github.com/esphome/feature-requests)
+5. ❗️ Closed issue [#2](https://github.com/corgan2222/E-Shelter_ObjectCount/issues/2) in [corgan2222/E-Shelter_ObjectCount](https://github.com/corgan2222/E-Shelter_ObjectCount)
 <!--END_SECTION:activity-->
 
 <!--

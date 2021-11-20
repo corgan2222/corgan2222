@@ -15,10 +15,10 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
-2. 🗣 Commented on [#30](https://github.com/b3rs3rk/gpustat-unraid/issues/30) in [b3rs3rk/gpustat-unraid](https://github.com/b3rs3rk/gpustat-unraid)
-3. 🗣 Commented on [#2277](https://github.com/blakeblackshear/frigate/issues/2277) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-4. 🗣 Commented on [#2266](https://github.com/blakeblackshear/frigate/issues/2266) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-5. 🗣 Commented on [#2277](https://github.com/blakeblackshear/frigate/issues/2277) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+2. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+3. 🗣 Commented on [#30](https://github.com/b3rs3rk/gpustat-unraid/issues/30) in [b3rs3rk/gpustat-unraid](https://github.com/b3rs3rk/gpustat-unraid)
+4. 🗣 Commented on [#2277](https://github.com/blakeblackshear/frigate/issues/2277) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+5. 🗣 Commented on [#2266](https://github.com/blakeblackshear/frigate/issues/2266) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
 <!--END_SECTION:activity-->
 
 <!--

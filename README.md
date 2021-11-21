@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/corgan2222/unraid-templates/pull/2) in [corgan2222/unraid-templates](https://github.com/corgan2222/unraid-templates)
-2. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+1. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+2. 🎉 Merged PR [#2](https://github.com/corgan2222/unraid-templates/pull/2) in [corgan2222/unraid-templates](https://github.com/corgan2222/unraid-templates)
 3. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
-4. 🗣 Commented on [#30](https://github.com/b3rs3rk/gpustat-unraid/issues/30) in [b3rs3rk/gpustat-unraid](https://github.com/b3rs3rk/gpustat-unraid)
-5. 🗣 Commented on [#2277](https://github.com/blakeblackshear/frigate/issues/2277) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+4. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+5. 🗣 Commented on [#30](https://github.com/b3rs3rk/gpustat-unraid/issues/30) in [b3rs3rk/gpustat-unraid](https://github.com/b3rs3rk/gpustat-unraid)
 <!--END_SECTION:activity-->
 
 <!--

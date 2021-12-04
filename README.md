@@ -14,10 +14,10 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/ESPresense/ESPresense/issues/139) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-2. 🗣 Commented on [#140](https://github.com/ESPresense/ESPresense/issues/140) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. 🗣 Commented on [#121](https://github.com/hobbyquaker/homematic-manager/issues/121) in [hobbyquaker/homematic-manager](https://github.com/hobbyquaker/homematic-manager)
-4. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+1. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+2. 🗣 Commented on [#139](https://github.com/ESPresense/ESPresense/issues/139) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+3. 🗣 Commented on [#140](https://github.com/ESPresense/ESPresense/issues/140) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#121](https://github.com/hobbyquaker/homematic-manager/issues/121) in [hobbyquaker/homematic-manager](https://github.com/hobbyquaker/homematic-manager)
 5. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
 <!--END_SECTION:activity-->
 

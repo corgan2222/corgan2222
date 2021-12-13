@@ -17,8 +17,8 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 1. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
 2. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
 3. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
-4. 🗣 Commented on [#146](https://github.com/ESPresense/ESPresense/issues/146) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-5. 🗣 Commented on [#147](https://github.com/ESPresense/ESPresense/issues/147) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
+5. 🗣 Commented on [#146](https://github.com/ESPresense/ESPresense/issues/146) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 <!--END_SECTION:activity-->
 
 <!--

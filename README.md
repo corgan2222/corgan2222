@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-2. 🗣 Commented on [#58](https://github.com/ESPresense/ESPresense/issues/58) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-3. 💪 Opened PR [#152](https://github.com/ESPresense/ESPresense/pull/152) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-4. 🗣 Commented on [#651](https://github.com/exadel-inc/CompreFace/issues/651) in [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace)
-5. 🗣 Commented on [#11](https://github.com/pqpxo/SWAKES_hassio/issues/11) in [pqpxo/SWAKES_hassio](https://github.com/pqpxo/SWAKES_hassio)
+1. 💪 Opened PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
+2. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+3. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#58](https://github.com/ESPresense/ESPresense/issues/58) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+5. 💪 Opened PR [#152](https://github.com/ESPresense/ESPresense/pull/152) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 <!--END_SECTION:activity-->
 
 <!--

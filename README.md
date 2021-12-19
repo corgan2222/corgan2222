@@ -15,10 +15,10 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#736](https://github.com/mKeRix/room-assistant/issues/736) in [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant)
-2. 💪 Opened PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
-3. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+2. 🗣 Commented on [#736](https://github.com/mKeRix/room-assistant/issues/736) in [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant)
+3. 💪 Opened PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
 4. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
-5. 🗣 Commented on [#58](https://github.com/ESPresense/ESPresense/issues/58) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+5. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 <!--END_SECTION:activity-->
 
 <!--

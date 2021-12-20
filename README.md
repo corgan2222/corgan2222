@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#736](https://github.com/mKeRix/room-assistant/issues/736) in [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant)
+1. 🗣 Commented on [#152](https://github.com/ESPresense/ESPresense/issues/152) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
 2. 🗣 Commented on [#736](https://github.com/mKeRix/room-assistant/issues/736) in [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant)
 3. 🗣 Commented on [#736](https://github.com/mKeRix/room-assistant/issues/736) in [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant)
-4. 💪 Opened PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
-5. 🗣 Commented on [#153](https://github.com/ESPresense/ESPresense/issues/153) in [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense)
+4. 🗣 Commented on [#736](https://github.com/mKeRix/room-assistant/issues/736) in [mKeRix/room-assistant](https://github.com/mKeRix/room-assistant)
+5. 💪 Opened PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
 <!--END_SECTION:activity-->
 
 <!--

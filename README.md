@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14495](https://github.com/blakeblackshear/frigate/pull/14495#issuecomment-2444819096) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
-2. 💪 Opened PR [#50](https://github.com/ateodorescu/home-assistant-ipmi/pull/50) in [ateodorescu/home-assistant-ipmi](https://github.com/ateodorescu/home-assistant-ipmi)
-3. 🚀 Published release [0.0.0.1](https://github.com/corgan2222/Milesight-Gateway-API/releases/tag/0.0.0.1) in [corgan2222/Milesight-Gateway-API](https://github.com/corgan2222/Milesight-Gateway-API)
-4. 💪 Opened PR [#5883](https://github.com/home-assistant/brands/pull/5883) in [home-assistant/brands](https://github.com/home-assistant/brands)
-5. 🚀 Published release [1.2.2 esec](https://github.com/corgan2222/codec/releases/tag/1.2.2) in [corgan2222/codec](https://github.com/corgan2222/codec)
+1. 🗣 Commented on [#68](https://github.com/pantherale0/ha-familysafety/issues/68#issuecomment-2496585015) in [pantherale0/ha-familysafety](https://github.com/pantherale0/ha-familysafety)
+2. ❗ Opened issue [#68](https://github.com/pantherale0/ha-familysafety/issues/68) in [pantherale0/ha-familysafety](https://github.com/pantherale0/ha-familysafety)
+3. 🗣 Commented on [#14495](https://github.com/blakeblackshear/frigate/pull/14495#issuecomment-2444819096) in [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate)
+4. 💪 Opened PR [#50](https://github.com/ateodorescu/home-assistant-ipmi/pull/50) in [ateodorescu/home-assistant-ipmi](https://github.com/ateodorescu/home-assistant-ipmi)
+5. 🚀 Published release [0.0.0.1](https://github.com/corgan2222/Milesight-Gateway-API/releases/tag/0.0.0.1) in [corgan2222/Milesight-Gateway-API](https://github.com/corgan2222/Milesight-Gateway-API)
 <!--END_SECTION:activity-->
 
 <!--

@@ -14,8 +14,8 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#913](https://github.com/blakeblackshear/frigate-hass-integration/pull/913) in [blakeblackshear/frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration)
-2. 🗣 Commented on [#2](https://github.com/vgcouso/ha-tracker/issues/2#issuecomment-2671251410) in [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker)
+1. ❗ Opened issue [#596](https://github.com/davidrapan/ha-solarman/issues/596) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)
+2. 💪 Opened PR [#913](https://github.com/blakeblackshear/frigate-hass-integration/pull/913) in [blakeblackshear/frigate-hass-integration](https://github.com/blakeblackshear/frigate-hass-integration)
 3. ❗ Opened issue [#2](https://github.com/vgcouso/ha-tracker/issues/2) in [vgcouso/ha-tracker](https://github.com/vgcouso/ha-tracker)
 4. ❗ Opened issue [#4](https://github.com/vawser/Warbox/issues/4) in [vawser/Warbox](https://github.com/vawser/Warbox)
 5. 🗣 Commented on [#3](https://github.com/vawser/Warbox/issues/3#issuecomment-2663413903) in [vawser/Warbox](https://github.com/vawser/Warbox)

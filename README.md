@@ -14,8 +14,8 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#208](https://github.com/roleoroleo/sonoff-hack/issues/208) in [roleoroleo/sonoff-hack](https://github.com/roleoroleo/sonoff-hack)
-2. 🗣 Commented on [#13](https://github.com/corgan2222/extstats/issues/13#issuecomment-3338535138) in [corgan2222/extstats](https://github.com/corgan2222/extstats)
+1. 🗣 Commented on [#2102](https://github.com/dermotduffy/advanced-camera-card/issues/2102#issuecomment-3489128549) in [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card)
+2. ❗ Opened issue [#208](https://github.com/roleoroleo/sonoff-hack/issues/208) in [roleoroleo/sonoff-hack](https://github.com/roleoroleo/sonoff-hack)
 3. 🗣 Commented on [#146913](https://github.com/home-assistant/core/issues/146913#issuecomment-2980593752) in [home-assistant/core](https://github.com/home-assistant/core)
 4. ❗ Opened issue [#39342](https://github.com/home-assistant/home-assistant.io/issues/39342) in [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io)
 5. 🗣 Commented on [#596](https://github.com/davidrapan/ha-solarman/issues/596#issuecomment-2888271362) in [davidrapan/ha-solarman](https://github.com/davidrapan/ha-solarman)

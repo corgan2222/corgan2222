@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2102](https://github.com/dermotduffy/advanced-camera-card/issues/2102#issuecomment-3959233127) in [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card)
-2. ℹ️ Labeled PR [#16](https://github.com/corgan2222/Dashboard/pull/16) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-3. 💪 Opened PR [#16](https://github.com/corgan2222/Dashboard/pull/16) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-4. 🗣 Commented on [#4](https://github.com/lionheart/Health-XML-Splitter/issues/4#issuecomment-3909266366) in [lionheart/Health-XML-Splitter](https://github.com/lionheart/Health-XML-Splitter)
-5. 🗣 Commented on [#3379](https://github.com/OpenCCU/OpenCCU/issues/3379#issuecomment-3782119975) in [OpenCCU/OpenCCU](https://github.com/OpenCCU/OpenCCU)
+1. ❌ Closed PR [#16](https://github.com/corgan2222/Dashboard/pull/16) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+2. ❌ Closed PR [#15](https://github.com/corgan2222/Dashboard/pull/15) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+3. ❌ Closed PR [#13](https://github.com/corgan2222/Dashboard/pull/13) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+4. ❌ Closed PR [#14](https://github.com/corgan2222/Dashboard/pull/14) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+5. ❌ Closed PR [#12](https://github.com/corgan2222/Dashboard/pull/12) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
 <!--END_SECTION:activity-->
 
 <!--

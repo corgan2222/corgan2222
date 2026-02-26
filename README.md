@@ -14,11 +14,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#16](https://github.com/corgan2222/Dashboard/pull/16) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-2. ❌ Closed PR [#15](https://github.com/corgan2222/Dashboard/pull/15) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-3. ❌ Closed PR [#13](https://github.com/corgan2222/Dashboard/pull/13) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-4. ❌ Closed PR [#14](https://github.com/corgan2222/Dashboard/pull/14) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-5. ❌ Closed PR [#12](https://github.com/corgan2222/Dashboard/pull/12) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+1. 🚀 Published release [2.02](https://github.com/corgan2222/Dashboard/releases/tag/2.02) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+2. ❌ Closed PR [#16](https://github.com/corgan2222/Dashboard/pull/16) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+3. ❌ Closed PR [#15](https://github.com/corgan2222/Dashboard/pull/15) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+4. ❌ Closed PR [#13](https://github.com/corgan2222/Dashboard/pull/13) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+5. ❌ Closed PR [#14](https://github.com/corgan2222/Dashboard/pull/14) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
 <!--END_SECTION:activity-->
 
 <!--

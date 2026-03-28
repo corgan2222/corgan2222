@@ -14,10 +14,10 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.3.5 esec](https://github.com/corgan2222/codec/releases/tag/1.3.5) in [corgan2222/codec](https://github.com/corgan2222/codec)
-2. ❗ Opened issue [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
-3. ❗ Opened issue [#227](https://github.com/travisghansen/hass-pfsense/issues/227) in [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense)
-4. 🚀 Published release [2.02](https://github.com/corgan2222/Dashboard/releases/tag/2.02) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+1. 🚀 Published release [1.0.1](https://github.com/corgan2222/milesight_gateway/releases/tag/1.0.1) in [corgan2222/milesight_gateway](https://github.com/corgan2222/milesight_gateway)
+2. 🚀 Published release [1.3.5 esec](https://github.com/corgan2222/codec/releases/tag/1.3.5) in [corgan2222/codec](https://github.com/corgan2222/codec)
+3. ❗ Opened issue [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+4. ❗ Opened issue [#227](https://github.com/travisghansen/hass-pfsense/issues/227) in [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense)
 5. ❌ Closed PR [#16](https://github.com/corgan2222/Dashboard/pull/16) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
 <!--END_SECTION:activity-->
 

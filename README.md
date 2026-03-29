@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Stefan!
 I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Photographer and Filmmaker.
 
-- 🔭 I’m currently working on ESP32 stuff, unraid, home automations
-- 🌱 I’m currently learning C#, ESP, Fusion360
+- 🔭 I’m currently working on Home Assistant Integrations, ESP32 stuff, unraid, home automations
+- 🌱 I’m currently learning MCP Server, ESP, Fusion360
 - 👯 I’m looking to collaborate on cool and new Home Automation technics
 - 📫 How to reach me: mail me stefan[at]knaak.org
 

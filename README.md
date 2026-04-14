@@ -6,7 +6,7 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 - 👯 I’m looking to collaborate on cool and new Home Automation technics
 - 📫 How to reach me: mail me stefan[at]knaak.org
 
-## <img src="https://raw.githubusercontent.com/corgan2222/Dashboard/refs/heads/master/assets/logo_inv.png" width="30px"> My Projects
+## <img src="https://raw.githubusercontent.com/corgan2222/Dashboard/refs/heads/master/assets/logo_inv.png" width="30px"> My projects
 
 ### <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"> Blender Addons
 
@@ -26,6 +26,12 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/better_presence2/main/custom_components/better_presence/brand/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/better_presence2">Better Presence 2</a></td><td>Improved person/device presence detection integration for Home Assistant</td></tr>
 </table>
 
+### <img src="https://avatars.githubusercontent.com/u/13409222?s=48&v=4" width="30px"> Dashboards
+
+<table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/13409222?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/Dashboard">IT Dashboard v2</a></td><td>native Multiframe Dashboard in JS/Electron for Win/Mac/Linux</td></tr>
+</table>
+
+
 ### <img src="https://avatars.githubusercontent.com/u/42099010?s=48&v=4" width="30px"> Unraid Templates
 
 <table width="100%">
@@ -42,6 +48,14 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/unraid-templates/main/img/phoenixstats-logo.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/unraid-templates">prometheus-phoenixstats</a></td><td>Prometheus exporter for Phoenix framework metrics</td></tr>
 <tr><td width="50">📊</td><td width="260"><a href="https://github.com/corgan2222/unraid-templates">gpustat-unraid</a></td><td>GPU statistics monitoring for Unraid</td></tr>
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/unraid-templates/main/img/phoenixstats-logo.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/unraid-templates">Prometheus-phoenixstats-Exporter</a></td><td>Standalone Prometheus metrics exporter for Phoenix stats</td></tr>
+</table>
+
+
+### 📦 dotfiles, Profiles
+
+<table width="100%">
+<tr><td width="50"><img src="https://avatars.githubusercontent.com/u/8104776?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/dotfiles">my linux dotfiles</a></td><td>300 Alias, 200 Functions, 40 Tools, 45 installer <a href="https://github.com/corgan2222/dotfiles"></a></td></tr>
+<tr><td width="50"><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/powershell_profile">windows powershell profile</a></td><td>OhMyPosh ,Terminal-Icons, PSReadLine, PSColors, Alias <a href="https://github.com/corgan2222/powershell_profile"></a></td></tr>
 </table>
 
 ### 📦 PyPI Packages

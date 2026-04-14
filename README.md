@@ -13,10 +13,12 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/blender_addon_dxf-icf_furniture">blender_addon_dxf-icf_furniture</a></td><td>Blender addon to import IFC floorplans from Archiologic. Floorplan Tools</td></tr>
 </table>
 
-### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> Home Assistant Addons
+### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> My Home Assistant Addons
 
 <table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/hassio-addons_repository">My Home Assistant Addons Repository</a></td><td>My collection of custom Home Assistant add-ons</td></tr>
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/addon-emqx/main/emqx/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/addon-emqx">EMQX Enterprise Addon</a></td><td>EMQX Enterprise MQTT broker as a Home Assistant add-on</td></tr>
+<tr><td width="50"><img src="https://avatars.githubusercontent.com/u/7195757?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/addon-grafana">Grafana Enterprise Addon</a></td><td>Grafana Enterprise as a Home Assistant add-on</td></tr>
+
 </table>
 
 

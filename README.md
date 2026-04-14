@@ -133,9 +133,9 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 ## Stats
 
-![](https://github.com/corgan2222/github-stats/blob/master/generated/overview.svg) ![](https://github.com/corgan2222/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/corgan2222/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only) ![](https://github.com/corgan2222/github-stats/blob/master/generated/languages.svg)
 
-
+![](https://raw.githubusercontent.com/corgan2222/metrics/refs/heads/master/github-metrics.svg)
 
 ## Latest activity
 

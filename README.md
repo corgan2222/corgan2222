@@ -132,11 +132,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/undeadlist/claude-code-agents/issues/5#issuecomment-4239389516) in [undeadlist/claude-code-agents](https://github.com/undeadlist/claude-code-agents)
-2. 🚀 Published release [v2.10.1](https://github.com/corgan2222/blender_addon_dxf-icf_furniture/releases/tag/v2.10.1) in [corgan2222/blender_addon_dxf-icf_furniture](https://github.com/corgan2222/blender_addon_dxf-icf_furniture)
-3. 🗣 Commented on [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853#issuecomment-4206794526) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
-4. 🗣 Commented on [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853#issuecomment-4206200529) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
-5. 🗣 Commented on [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853#issuecomment-4204213628) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+1. 🚀 Published release [v0.8.3](https://github.com/corgan2222/addon-emqx/releases/tag/v0.8.3) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
+2. 🗣 Commented on [#5](https://github.com/undeadlist/claude-code-agents/issues/5#issuecomment-4239389516) in [undeadlist/claude-code-agents](https://github.com/undeadlist/claude-code-agents)
+3. 🚀 Published release [v2.10.1](https://github.com/corgan2222/blender_addon_dxf-icf_furniture/releases/tag/v2.10.1) in [corgan2222/blender_addon_dxf-icf_furniture](https://github.com/corgan2222/blender_addon_dxf-icf_furniture)
+4. 🗣 Commented on [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853#issuecomment-4206794526) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+5. 🗣 Commented on [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853#issuecomment-4206200529) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
 <!--END_SECTION:activity-->
 
 <!--

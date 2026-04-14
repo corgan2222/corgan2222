@@ -131,6 +131,12 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <tr><td width="50"><img src="https://avatars.githubusercontent.com/u/8079177?s=200&v=4" width="30px"></td><td width="260"><a href="https://www.curseforge.com/wow/addons/getdkp-plus">GetDKP Plus</a></td><td>The WoW Addon for DKP tracking in-game</td></tr>
 </table>
 
+## Stats
+
+![](https://github.com/corgan2222/github-stats/blob/master/generated/overview.svg) ![](https://github.com/corgan2222/github-stats/blob/master/generated/languages.svg)
+
+
+
 ## Latest activity
 
 <!--START_SECTION:activity-->

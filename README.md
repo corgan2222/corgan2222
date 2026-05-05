@@ -142,11 +142,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/corgan2222/dotfiles/pull/1) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-2. 🗣 Commented on [#227](https://github.com/travisghansen/hass-pfsense/issues/227#issuecomment-4287753112) in [travisghansen/hass-pfsense](https://github.com/travisghansen/hass-pfsense)
-3. 🚀 Published release [v1.0.0](https://github.com/corgan2222/addon-emqx6/releases/tag/v1.0.0) in [corgan2222/addon-emqx6](https://github.com/corgan2222/addon-emqx6)
-4. 🚀 Published release [Grafana Enterprise 12.4.3](https://github.com/corgan2222/addon-grafana/releases/tag/v12.4.3) in [corgan2222/addon-grafana](https://github.com/corgan2222/addon-grafana)
-5. 🗣 Commented on [#7853](https://github.com/IfcOpenShell/IfcOpenShell/issues/7853#issuecomment-4206794526) in [IfcOpenShell/IfcOpenShell](https://github.com/IfcOpenShell/IfcOpenShell)
+1. 🎉 Merged PR [#3](https://github.com/corgan2222/dotfiles/pull/3) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+2. 💪 Opened PR [#3](https://github.com/corgan2222/dotfiles/pull/3) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+3. 🎉 Merged PR [#2](https://github.com/corgan2222/dotfiles/pull/2) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+4. 💪 Opened PR [#2](https://github.com/corgan2222/dotfiles/pull/2) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+5. 🎉 Merged PR [#1](https://github.com/corgan2222/dotfiles/pull/1) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--

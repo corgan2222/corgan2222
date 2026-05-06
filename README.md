@@ -142,11 +142,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/corgan2222/better_presence2/pull/10) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
-2. 💪 Opened PR [#10](https://github.com/corgan2222/better_presence2/pull/10) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
-3. 🎉 Merged PR [#4](https://github.com/corgan2222/dotfiles/pull/4) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-4. 💪 Opened PR [#4](https://github.com/corgan2222/dotfiles/pull/4) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-5. 🎉 Merged PR [#3](https://github.com/corgan2222/dotfiles/pull/3) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+1. 🎉 Merged PR [#17](https://github.com/corgan2222/better_presence2/pull/17) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
+2. 💪 Opened PR [#17](https://github.com/corgan2222/better_presence2/pull/17) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
+3. 🎉 Merged PR [#16](https://github.com/corgan2222/better_presence2/pull/16) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
+4. 💪 Opened PR [#16](https://github.com/corgan2222/better_presence2/pull/16) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
+5. 🎉 Merged PR [#15](https://github.com/corgan2222/better_presence2/pull/15) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
 <!--END_SECTION:activity-->
 
 <!--

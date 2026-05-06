@@ -16,6 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
-          MAX_LINES: 10
+          COMMIT_MSG: "Updated corgan2222 Readme"
+          MAX_LINES: 20
           COMMIT_NAME: GitHub Activity Readme

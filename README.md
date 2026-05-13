@@ -142,11 +142,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/corgan2222/better_presence2/pull/25) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
-2. 💪 Opened PR [#25](https://github.com/corgan2222/better_presence2/pull/25) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
-3. 🎉 Merged PR [#24](https://github.com/corgan2222/better_presence2/pull/24) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
-4. 🎉 Merged PR [#23](https://github.com/corgan2222/better_presence2/pull/23) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
-5. 💪 Opened PR [#24](https://github.com/corgan2222/better_presence2/pull/24) in [corgan2222/better_presence2](https://github.com/corgan2222/better_presence2)
+1. 🎉 Merged PR [#10](https://github.com/corgan2222/ipcam_checker/pull/10) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
+2. 💪 Opened PR [#10](https://github.com/corgan2222/ipcam_checker/pull/10) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
+3. 🎉 Merged PR [#9](https://github.com/corgan2222/ipcam_checker/pull/9) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
+4. 💪 Opened PR [#9](https://github.com/corgan2222/ipcam_checker/pull/9) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
+5. 🎉 Merged PR [#8](https://github.com/corgan2222/ipcam_checker/pull/8) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
 <!--END_SECTION:activity-->
 
 <!--

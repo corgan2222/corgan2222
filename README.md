@@ -72,6 +72,15 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <tr><td width="50"><img src="https://avatars.githubusercontent.com/u/6154722?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/powershell_profile">windows powershell profile</a></td><td>OhMyPosh ,Terminal-Icons, PSReadLine, PSColors, Alias <a href="https://github.com/corgan2222/powershell_profile"></a></td></tr>
 </table>
 
+
+### <img src="https://raw.githubusercontent.com/Nexus-Mods/NexusMods.App/refs/heads/main/Nexus-Icon.png" width="30px"> Game Mods Nexusmods
+
+<table width="100%">
+<tr><td width="50"><img src="https://raw.githubusercontent.com/Nexus-Mods/NexusMods.App/refs/heads/main/Nexus-Icon.png" width="30px"></td>
+  <td width="260"><a href="https://github.com/corgan2222/dotfiles">Trader Text Fixed (German) (PTF)</a></td><td>Kingdom Come: Deliverance II Mod <a href="https://www.nexusmods.com/kingdomcomedeliverance2/mods/340"></a></td></tr>
+
+</table>
+
 ### 🛠️ Tools
 
 <table width="100%"><tr><td width="50">📧</td><td width="260"><a href="https://github.com/corgan2222/mail2slack">mail2slack</a></td><td>Forward emails to Slack via a lightweight bridge service</td></tr>

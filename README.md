@@ -160,11 +160,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1317](https://github.com/homeassistant-ai/ha-mcp/pull/1317) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
-2. 🎉 Merged PR [#14](https://github.com/corgan2222/ipcam_checker/pull/14) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
-3. 💪 Opened PR [#14](https://github.com/corgan2222/ipcam_checker/pull/14) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
-4. 🎉 Merged PR [#29](https://github.com/corgan2222/Dashboard/pull/29) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-5. 💪 Opened PR [#29](https://github.com/corgan2222/Dashboard/pull/29) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+1. 🎉 Merged PR [#1317](https://github.com/homeassistant-ai/ha-mcp/pull/1317) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+2. 💪 Opened PR [#1317](https://github.com/homeassistant-ai/ha-mcp/pull/1317) in [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)
+3. 🎉 Merged PR [#14](https://github.com/corgan2222/ipcam_checker/pull/14) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
+4. 💪 Opened PR [#14](https://github.com/corgan2222/ipcam_checker/pull/14) in [corgan2222/ipcam_checker](https://github.com/corgan2222/ipcam_checker)
+5. 🎉 Merged PR [#29](https://github.com/corgan2222/Dashboard/pull/29) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
 <!--END_SECTION:activity-->
 
 <!--

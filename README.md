@@ -73,11 +73,15 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 </table>
 
 
-### <img src="https://raw.githubusercontent.com/Nexus-Mods/NexusMods.App/refs/heads/main/Nexus-Icon.png" width="30px"> Game Mods Nexusmods
+### <img src="https://raw.githubusercontent.com/Nexus-Mods/NexusMods.App/refs/heads/main/Nexus-Icon.png" width="30px"> Game Mods - Nexusmods
 
 <table width="100%">
 <tr><td width="50"><img src="https://raw.githubusercontent.com/Nexus-Mods/NexusMods.App/refs/heads/main/Nexus-Icon.png" width="30px"></td>
-  <td width="260"><a href="https://github.com/corgan2222/dotfiles">Trader Text Fixed (German) (PTF)</a></td><td>Kingdom Come: Deliverance II Mod <a href="https://www.nexusmods.com/kingdomcomedeliverance2/mods/340"></a></td></tr>
+  <td width="260"><a href="https://www.nexusmods.com/kingdomcomedeliverance2/mods/340">Trader Text Fixed (German) (PTF)</a></td><td>Kingdom Come: Deliverance II Mod <a href="https://www.nexusmods.com/kingdomcomedeliverance2/mods/340"></a></td>
+</tr>
+<tr><td width="50"><img src="https://raw.githubusercontent.com/Nexus-Mods/NexusMods.App/refs/heads/main/Nexus-Icon.png" width="30px"></td>
+  <td width="260"><a href="https://www.nexusmods.com/warhammer40000spacemarine2/mods/481">Lumen Astartes - Cinematic HDR ReShade</a></td><td>Warhammer 40K - ReShade Mod <a href="https://www.nexusmods.com/warhammer40000spacemarine2/mods/481"></a></td>
+</tr>
 
 </table>
 

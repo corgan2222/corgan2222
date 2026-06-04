@@ -8,6 +8,12 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 ## <img src="https://raw.githubusercontent.com/corgan2222/Dashboard/refs/heads/master/assets/logo_inv.png" width="30px"> My projects
 
+### <img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"> Windows Tools
+
+<table width="100%"><tr><td width="50"><img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"></td>
+  <td width="260"><a href="https://github.com/corgan2222/markitdown_context_menu">MarkItDown Context Menu</a></td><td>Windows Explorer context-menu tool for Microsoft markitdown (per-user, no admin). </td></tr>
+</table>
+
 ### <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"> Blender Addons
 
 <table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/blender_addon_dxf-icf_furniture">blender_addon_dxf-icf_furniture</a></td><td>Blender addon to import IFC floorplans from Archiologic. Floorplan Tools</td></tr>

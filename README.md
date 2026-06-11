@@ -166,11 +166,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/1) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-2. 💪 Opened PR [#1](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/1) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-3. ❌ Closed PR [#4](https://github.com/corgan2222/markitdown_context_menu/pull/4) in [corgan2222/markitdown_context_menu](https://github.com/corgan2222/markitdown_context_menu)
-4. 💪 Opened PR [#4](https://github.com/corgan2222/markitdown_context_menu/pull/4) in [corgan2222/markitdown_context_menu](https://github.com/corgan2222/markitdown_context_menu)
-5. 🎉 Merged PR [#3](https://github.com/corgan2222/markitdown_context_menu/pull/3) in [corgan2222/markitdown_context_menu](https://github.com/corgan2222/markitdown_context_menu)
+1. 🎉 Merged PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
+2. 🎉 Merged PR [#1](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/1) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+3. 💪 Opened PR [#1](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/1) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+4. ❌ Closed PR [#4](https://github.com/corgan2222/markitdown_context_menu/pull/4) in [corgan2222/markitdown_context_menu](https://github.com/corgan2222/markitdown_context_menu)
+5. 💪 Opened PR [#4](https://github.com/corgan2222/markitdown_context_menu/pull/4) in [corgan2222/markitdown_context_menu](https://github.com/corgan2222/markitdown_context_menu)
 <!--END_SECTION:activity-->
 
 <!--

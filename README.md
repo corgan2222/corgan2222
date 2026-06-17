@@ -166,11 +166,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/3) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-2. 🎉 Merged PR [#2](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/2) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-3. 🗣 Commented on [#2](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/2#issuecomment-4727606643) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-4. 💪 Opened PR [#2](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/2) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-5. 🎉 Merged PR [#1](https://github.com/ESPresense/ESP-WiFiSettings/pull/1) in [ESPresense/ESP-WiFiSettings](https://github.com/ESPresense/ESP-WiFiSettings)
+1. 🎉 Merged PR [#3](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/3) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+2. 💪 Opened PR [#3](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/3) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+3. 🎉 Merged PR [#2](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/2) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+4. 🗣 Commented on [#2](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/2#issuecomment-4727606643) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+5. 💪 Opened PR [#2](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/2) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
 <!--END_SECTION:activity-->
 
 <!--

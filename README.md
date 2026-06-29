@@ -8,16 +8,6 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 ## <img src="https://raw.githubusercontent.com/corgan2222/Dashboard/refs/heads/master/assets/logo_inv.png" width="30px"> My projects
 
-### <img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"> Windows Tools
-
-<table width="100%"><tr><td width="50"><img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"></td>
-  <td width="260"><a href="https://github.com/corgan2222/markitdown_context_menu">MarkItDown Context Menu</a></td><td>Windows Explorer context-menu tool for Microsoft markitdown (per-user, no admin). </td></tr>
-</table>
-
-### <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"> Blender Addons
-
-<table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/blender_addon_dxf-icf_furniture">blender_addon_dxf-icf_furniture</a></td><td>Blender addon to import IFC floorplans from Archiologic. Floorplan Tools</td></tr>
-</table>
 
 ### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> My Home Assistant Addons
 
@@ -32,9 +22,50 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 ### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> Home Assistant Integrations
 
-<table width="100%"><tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/milesight_gateway/main/custom_components/milesight_gateway/brand/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/milesight_gateway">Milesight LoRa Gateway</a></td><td>Custom Home Assistant integration for Milesight LoRaWAN gateways and sensors</td></tr>
+<table width="100%">
+    <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/ha-clawdmeter/refs/heads/main/custom_components/clawdmeter/brand/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/ha-clawdmeter">Clawdmeter</a></td><td>Claude Usage for Home Assistant</td></tr>
+  <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/milesight_gateway/main/custom_components/milesight_gateway/brand/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/milesight_gateway">Milesight LoRa Gateway</a></td><td>Custom Home Assistant integration for Milesight LoRaWAN gateways and sensors</td></tr>
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/better_presence2/main/custom_components/better_presence/brand/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/better_presence2">Better Presence 2</a></td><td>Improved person/device presence detection integration for Home Assistant</td></tr>
 </table>
+
+### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> Home Assistant Loveace Cards
+
+<table width="100%">
+    <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/ha-clawdmeter/refs/heads/main/custom_components/clawdmeter/brand/icon.png" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/lovelace-clawdmeter">Clawdmeter</a></td><td>An animated Lovelace card for the Clawdmeter integration.</td></tr>
+
+</table>
+
+
+### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> ESP Home
+
+<table width="100%">
+    <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/ha-clawdmeter/refs/heads/main/custom_components/clawdmeter/brand/icon.png" width="30px"></td>
+    <td width="260"><a href="https://github.com/corgan2222/esphome-modular-lvgl-buttons">Clawdmeter Esphome Modul</a></td><td>Esphome Clawdmeter companion, a modular component library for building touchscreen smart home control panels using ESPHome + LVGL on cheap ESP32 displays.</td></tr>
+
+</table>
+
+### 🛠️ MCP Server
+
+<table width="100%">
+  <tr>
+    <td width="50">🛠️</td>
+    <td width="260"><a href="https://github.com/corgan2222/milesight-mcp">Milesight API MCP Server</a></td>
+    <td>MCP server for the Milesight LoRaWAN gateway HTTP API for Claude, OpenAI, Cursor over stdio.</td>
+  </tr>
+</table>
+
+### <img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"> Windows Tools
+
+<table width="100%"><tr><td width="50"><img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"></td>
+  <td width="260"><a href="https://github.com/corgan2222/markitdown_context_menu">MarkItDown Context Menu</a></td><td>Windows Explorer context-menu tool for Microsoft markitdown (per-user, no admin). </td></tr>
+</table>
+
+### <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"> Blender Addons
+
+<table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/blender_addon_dxf-icf_furniture">blender_addon_dxf-icf_furniture</a></td><td>Blender addon to import IFC floorplans from Archiologic. Floorplan Tools</td></tr>
+</table>
+
+
 
 ### <img src="https://avatars.githubusercontent.com/u/13409222?s=48&v=4" width="30px"> Dashboards
 

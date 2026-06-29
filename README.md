@@ -197,11 +197,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/corgan2222/milesight-mcp/pull/1) in [corgan2222/milesight-mcp](https://github.com/corgan2222/milesight-mcp)
-2. 💪 Opened PR [#1](https://github.com/corgan2222/milesight-mcp/pull/1) in [corgan2222/milesight-mcp](https://github.com/corgan2222/milesight-mcp)
-3. 🎉 Merged PR [#10](https://github.com/corgan2222/lovelace-clawdmeter/pull/10) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-4. 💪 Opened PR [#10](https://github.com/corgan2222/lovelace-clawdmeter/pull/10) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-5. 🎉 Merged PR [#9](https://github.com/corgan2222/lovelace-clawdmeter/pull/9) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+1. 💪 Opened PR [#6](https://github.com/corgan2222/ha-clawdmeter/pull/6) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+2. 🎉 Merged PR [#5](https://github.com/corgan2222/ha-clawdmeter/pull/5) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+3. 💪 Opened PR [#5](https://github.com/corgan2222/ha-clawdmeter/pull/5) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+4. 🎉 Merged PR [#1](https://github.com/corgan2222/milesight-mcp/pull/1) in [corgan2222/milesight-mcp](https://github.com/corgan2222/milesight-mcp)
+5. 💪 Opened PR [#1](https://github.com/corgan2222/milesight-mcp/pull/1) in [corgan2222/milesight-mcp](https://github.com/corgan2222/milesight-mcp)
 <!--END_SECTION:activity-->
 
 <!--

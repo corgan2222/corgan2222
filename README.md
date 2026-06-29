@@ -166,11 +166,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/corgan2222/lovelace-clawdmeter/pull/10) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-2. 💪 Opened PR [#10](https://github.com/corgan2222/lovelace-clawdmeter/pull/10) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-3. 🎉 Merged PR [#9](https://github.com/corgan2222/lovelace-clawdmeter/pull/9) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-4. 💪 Opened PR [#9](https://github.com/corgan2222/lovelace-clawdmeter/pull/9) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-5. 🎉 Merged PR [#8](https://github.com/corgan2222/lovelace-clawdmeter/pull/8) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+1. 🎉 Merged PR [#1](https://github.com/corgan2222/milesight-mcp/pull/1) in [corgan2222/milesight-mcp](https://github.com/corgan2222/milesight-mcp)
+2. 💪 Opened PR [#1](https://github.com/corgan2222/milesight-mcp/pull/1) in [corgan2222/milesight-mcp](https://github.com/corgan2222/milesight-mcp)
+3. 🎉 Merged PR [#10](https://github.com/corgan2222/lovelace-clawdmeter/pull/10) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+4. 💪 Opened PR [#10](https://github.com/corgan2222/lovelace-clawdmeter/pull/10) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+5. 🎉 Merged PR [#9](https://github.com/corgan2222/lovelace-clawdmeter/pull/9) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
 <!--END_SECTION:activity-->
 
 <!--

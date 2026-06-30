@@ -197,11 +197,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8845](https://github.com/hacs/default/pull/8845) in [hacs/default](https://github.com/hacs/default)
-2. 💪 Opened PR [#8844](https://github.com/hacs/default/pull/8844) in [hacs/default](https://github.com/hacs/default)
-3. 🎉 Merged PR [#24](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/24) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-4. 💪 Opened PR [#24](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/24) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-5. 🎉 Merged PR [#11](https://github.com/corgan2222/ha-clawdmeter/pull/11) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+1. 🎉 Merged PR [#37](https://github.com/corgan2222/ha-better-presence2/pull/37) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
+2. 💪 Opened PR [#37](https://github.com/corgan2222/ha-better-presence2/pull/37) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
+3. 💪 Opened PR [#8845](https://github.com/hacs/default/pull/8845) in [hacs/default](https://github.com/hacs/default)
+4. 💪 Opened PR [#8844](https://github.com/hacs/default/pull/8844) in [hacs/default](https://github.com/hacs/default)
+5. 🎉 Merged PR [#24](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/24) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
 <!--END_SECTION:activity-->
 
 <!--

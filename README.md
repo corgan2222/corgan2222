@@ -197,11 +197,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/corgan2222/ha-milesight-gateway/pull/36) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-2. ℹ️ Labeled PR [#2](https://github.com/corgan2222/addon-emqx/pull/2) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
-3. 💪 Opened PR [#2](https://github.com/corgan2222/addon-emqx/pull/2) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
-4. 🎉 Merged PR [#42](https://github.com/corgan2222/ha-better-presence2/pull/42) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
-5. 💪 Opened PR [#42](https://github.com/corgan2222/ha-better-presence2/pull/42) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
+1. ℹ️ Labeled PR [#4](https://github.com/corgan2222/addon-emqx/pull/4) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
+2. ℹ️ Unlabeled PR [#4](https://github.com/corgan2222/addon-emqx/pull/4) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
+3. 🎉 Merged PR [#4](https://github.com/corgan2222/addon-emqx/pull/4) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
+4. ℹ️ Labeled PR [#4](https://github.com/corgan2222/addon-emqx/pull/4) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
+5. 💪 Opened PR [#4](https://github.com/corgan2222/addon-emqx/pull/4) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
 <!--END_SECTION:activity-->
 
 <!--

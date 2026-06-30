@@ -197,11 +197,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/corgan2222/ha-clawdmeter/pull/2#issuecomment-4836647944) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
-2. 🗣 Commented on [#1](https://github.com/corgan2222/ha-clawdmeter/pull/1#issuecomment-4836647835) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
-3. 🎉 Merged PR [#7](https://github.com/corgan2222/ha-clawdmeter/pull/7) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
-4. 💪 Opened PR [#7](https://github.com/corgan2222/ha-clawdmeter/pull/7) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
-5. 🎉 Merged PR [#6](https://github.com/corgan2222/ha-clawdmeter/pull/6) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+1. 🎉 Merged PR [#23](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/23) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+2. 💪 Opened PR [#23](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/23) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+3. 🗣 Commented on [#2](https://github.com/corgan2222/ha-clawdmeter/pull/2#issuecomment-4836647944) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+4. 🗣 Commented on [#1](https://github.com/corgan2222/ha-clawdmeter/pull/1#issuecomment-4836647835) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+5. 🎉 Merged PR [#7](https://github.com/corgan2222/ha-clawdmeter/pull/7) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
 <!--END_SECTION:activity-->
 
 <!--

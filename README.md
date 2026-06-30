@@ -197,11 +197,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#6](https://github.com/corgan2222/addon-emqx/pull/6) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
-2. 💪 Opened PR [#6](https://github.com/corgan2222/addon-emqx/pull/6) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
-3. 🎉 Merged PR [#3](https://github.com/corgan2222/hassio-addons_repository/pull/3) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
-4. ℹ️ Labeled PR [#3](https://github.com/corgan2222/hassio-addons_repository/pull/3) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
-5. 💪 Opened PR [#3](https://github.com/corgan2222/hassio-addons_repository/pull/3) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
+1. 🎉 Merged PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
+2. ℹ️ Labeled PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
+3. 💪 Opened PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
+4. 🎉 Merged PR [#6](https://github.com/corgan2222/addon-emqx/pull/6) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
+5. ℹ️ Labeled PR [#6](https://github.com/corgan2222/addon-emqx/pull/6) in [corgan2222/addon-emqx](https://github.com/corgan2222/addon-emqx)
 <!--END_SECTION:activity-->
 
 <!--

@@ -197,11 +197,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/corgan2222/ha-milesight-gateway/pull/29) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-2. 💪 Opened PR [#8847](https://github.com/hacs/default/pull/8847) in [hacs/default](https://github.com/hacs/default)
-3. 💪 Opened PR [#29](https://github.com/corgan2222/ha-milesight-gateway/pull/29) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-4. 🎉 Merged PR [#40](https://github.com/corgan2222/ha-better-presence2/pull/40) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
-5. 💪 Opened PR [#40](https://github.com/corgan2222/ha-better-presence2/pull/40) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
+1. 💪 Opened PR [#30](https://github.com/corgan2222/ha-milesight-gateway/pull/30) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+2. 🎉 Merged PR [#29](https://github.com/corgan2222/ha-milesight-gateway/pull/29) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+3. 💪 Opened PR [#8847](https://github.com/hacs/default/pull/8847) in [hacs/default](https://github.com/hacs/default)
+4. 💪 Opened PR [#29](https://github.com/corgan2222/ha-milesight-gateway/pull/29) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+5. 🎉 Merged PR [#40](https://github.com/corgan2222/ha-better-presence2/pull/40) in [corgan2222/ha-better-presence2](https://github.com/corgan2222/ha-better-presence2)
 <!--END_SECTION:activity-->
 
 <!--

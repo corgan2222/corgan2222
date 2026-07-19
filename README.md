@@ -8,6 +8,12 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 ## <img src="https://raw.githubusercontent.com/corgan2222/Dashboard/refs/heads/master/assets/logo_inv.png" width="30px"> My projects
 
+### <img src="https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/images/logo-81x112.png" width="30px"> Proxmox Scripts
+
+<table width="100%">
+<tr><td width="50"><img src="https://raw.githubusercontent.com/blakeblackshear/frigate/refs/heads/dev/web/images/branding/favicon-32x32.png" width="32px"></td><td width="260"><a href="https://gist.github.com/corgan2222/3206369f8741512ec93fdee74f1a6330#file-frigate-018-beta-en-sh">Frigate 0.18.0-beta1</a></td><td>Install Frigate 0.18.0-beta1 via community-scripts (ProxmoxVE)</td></tr>
+
+</table>
 
 ### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> My Home Assistant Addons
 

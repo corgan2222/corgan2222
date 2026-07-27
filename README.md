@@ -203,11 +203,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2039](https://github.com/community-scripts/ProxmoxVED/pull/2039) in [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED)
-2. 💪 Opened PR [#2038](https://github.com/community-scripts/ProxmoxVED/pull/2038) in [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED)
-3. 🎉 Merged PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
-4. ℹ️ Labeled PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
-5. 💪 Opened PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
+1. 🗣 Commented on [#424](https://github.com/hassio-addons/app-vaultwarden/pull/424#issuecomment-5095298566) in [hassio-addons/app-vaultwarden](https://github.com/hassio-addons/app-vaultwarden)
+2. 💪 Opened PR [#2039](https://github.com/community-scripts/ProxmoxVED/pull/2039) in [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED)
+3. 💪 Opened PR [#2038](https://github.com/community-scripts/ProxmoxVED/pull/2038) in [community-scripts/ProxmoxVED](https://github.com/community-scripts/ProxmoxVED)
+4. 🎉 Merged PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
+5. ℹ️ Labeled PR [#4](https://github.com/corgan2222/hassio-addons_repository/pull/4) in [corgan2222/hassio-addons_repository](https://github.com/corgan2222/hassio-addons_repository)
 <!--END_SECTION:activity-->
 
 <!--

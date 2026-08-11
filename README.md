@@ -208,11 +208,11 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/corgan2222/rig-exporter/pull/24) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
-2. 🗣 Commented on [#22](https://github.com/corgan2222/rig-exporter/issues/22#issuecomment-5255344658) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
-3. 🔒 Closed issue [#22](https://github.com/corgan2222/rig-exporter/issues/22) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
-4. 🗣 Commented on [#21](https://github.com/corgan2222/rig-exporter/issues/21#issuecomment-5255344105) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
-5. 🔒 Closed issue [#21](https://github.com/corgan2222/rig-exporter/issues/21) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
+1. 💪 Opened PR [#27](https://github.com/corgan2222/rig-exporter/pull/27) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
+2. 🎉 Merged PR [#26](https://github.com/corgan2222/rig-exporter/pull/26) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
+3. 💪 Opened PR [#26](https://github.com/corgan2222/rig-exporter/pull/26) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
+4. 🎉 Merged PR [#25](https://github.com/corgan2222/rig-exporter/pull/25) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
+5. 💪 Opened PR [#25](https://github.com/corgan2222/rig-exporter/pull/25) in [corgan2222/rig-exporter](https://github.com/corgan2222/rig-exporter)
 <!--END_SECTION:activity-->
 
 <!--

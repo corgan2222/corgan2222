@@ -1,6 +1,22 @@
 ## 👋 Hi there, I'm Stefan!
 I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Photographer and Filmmaker.
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/corgan2222/corgan2222/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/corgan2222/corgan2222/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/corgan2222/corgan2222/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>  
+
+
 - 🔭 I’m currently working on Home Assistant Integrations, Home Automations.
 - 🌱 I’m currently learning Claud Code, MCP Server.
 - 👯 I’m looking to collaborate on cool and new Home Automation technics
@@ -201,9 +217,9 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 
 ## Stats
 
+![](./profile-3d-contrib/profile-night-view.svg)
+
 ![](https://raw.githubusercontent.com/corgan2222/github-stats/master/generated/overview.svg)  ![](https://raw.githubusercontent.com/corgan2222/github-stats/master/generated/languages.svg)
-
-
 
 ## Latest activity
 
@@ -216,4 +232,3 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <!--END_SECTION:activity-->
 
 <!--
-

@@ -18,7 +18,7 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 
 
 - 🔭 I’m currently working on Home Assistant Integrations, Loveace Cards and KI Stuff.
-- 🌱 I’m currently learning Claud Code, MCP Server.
+- 🌱 I’m currently learning Go, Rust, Claud Code, MCP Server.
 - 👯 I’m looking to collaborate on cool and new Home Automation technics
 - 📫 How to reach me: mail me stefan[at]knaak.org
 

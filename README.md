@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Stefan!
-I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Photographer and Filmmaker.
+I’m an IoT Project Engineer, Developer, IT professional, Photographer and Filmmaker.
 
 <picture>
   <source
@@ -17,7 +17,7 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 </picture>  
 
 
-- 🔭 I’m currently working on Home Assistant Integrations, Home Automations.
+- 🔭 I’m currently working on Home Assistant Integrations, Loveace Cards and KI Stuff.
 - 🌱 I’m currently learning Claud Code, MCP Server.
 - 👯 I’m looking to collaborate on cool and new Home Automation technics
 - 📫 How to reach me: mail me stefan[at]knaak.org
@@ -28,12 +28,33 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <table width="100%">
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/rig-exporter/refs/heads/main/docs/images/favicon-64.png" width="32px"></td>
   <td width="260"><a href="https://github.com/corgan2222/rig-exporter">rig-exporter</a></td>
-  <td>PC telemetry for Home Assistant, Prometheus and InfluxDB with FPS</td></tr>
+  <td>PC telemetry for Home Assistant, Prometheus and InfluxDB with FPS. Written in GO</td></tr>
 </table>
+
+### <img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"> Windows Tools
+
+<table width="100%">
+  <tr>
+    <td width="50"><img src="https://raw.githubusercontent.com/corgan2222/context-manager/refs/heads/main/ctxmenu/assets/app.ico" width="30px"></td>
+    <td width="260"><a href="https://github.com/corgan2222/context-manager">Win Context Menu Manager</a></td><td>Manage all Context Menu entrys and add new ones. Written in Rust</td>
+  </tr>
+
+  <tr>
+    <td width="50"><img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"></td>
+    <td width="260"><a href="https://github.com/corgan2222/markitdown_context_menu">MarkItDown Context Menu</a></td><td>Windows Explorer context-menu tool for Microsoft markitdown (per-user, no admin). </td>
+  </tr>
+</table>
+
+### <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"> Blender Addons
+
+<table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/blender_addon_dxf-icf_furniture">blender_addon_dxf-icf_furniture</a></td><td>Blender addon to import IFC floorplans from Archiologic. Floorplan Tools</td></tr>
+</table>
+
 
 ### <img src="https://raw.githubusercontent.com/community-scripts/ProxmoxVE/main/misc/images/logo-81x112.png" width="30px"> Proxmox Scripts
 <table width="100%">
-<tr><td width="50"><img src="https://raw.githubusercontent.com/blakeblackshear/frigate/refs/heads/dev/web/images/branding/favicon-32x32.png" width="32px"></td><td width="260"><a href="https://gist.github.com/corgan2222/3206369f8741512ec93fdee74f1a6330#file-frigate-018-beta-en-sh">Frigate 0.18.0-beta2</a></td><td>Install Frigate 0.18.0-beta1 via community-scripts (ProxmoxVE)</td></tr>
+<tr><td width="50"><img src="https://raw.githubusercontent.com/blakeblackshear/frigate/refs/heads/dev/web/images/branding/favicon-32x32.png" width="32px"></td>
+  <td width="260"><a href="https://gist.github.com/corgan2222/3206369f8741512ec93fdee74f1a6330">Frigate 0.18.0-beta3</a></td><td>Install Frigate 0.18.0-beta3 via community-scripts (ProxmoxVE)</td></tr>
 </table>
 
 ### <img src="https://avatars.githubusercontent.com/u/30772201?s=48&v=4" width="30px"> My Home Assistant Addons
@@ -81,17 +102,6 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
   </tr>
 </table>
 
-### <img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"> Windows Tools
-
-<table width="100%"><tr><td width="50"><img src="https://github.com/corgan2222/markitdown_context_menu/blob/main/images/markdown-icon_inverted.png" width="30px"></td>
-  <td width="260"><a href="https://github.com/corgan2222/markitdown_context_menu">MarkItDown Context Menu</a></td><td>Windows Explorer context-menu tool for Microsoft markitdown (per-user, no admin). </td></tr>
-</table>
-
-### <img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"> Blender Addons
-
-<table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/52924476?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/blender_addon_dxf-icf_furniture">blender_addon_dxf-icf_furniture</a></td><td>Blender addon to import IFC floorplans from Archiologic. Floorplan Tools</td></tr>
-</table>
-
 
 
 ### <img src="https://avatars.githubusercontent.com/u/13409222?s=48&v=4" width="30px"> Dashboards
@@ -99,7 +109,7 @@ I’m an IoT Project Engineer, Developer, Tech enthusiast, IT professional, Phot
 <table width="100%"><tr><td width="50"><img src="https://avatars.githubusercontent.com/u/13409222?s=48&v=4" width="30px"></td><td width="260"><a href="https://github.com/corgan2222/Dashboard">IT Dashboard v2</a></td><td>native Multiframe Dashboard in JS/Electron for Win/Mac/Linux</td></tr>
 </table>
 
-### <img src="https://pypi.org/static/images/logo-small.8998e9d1.svg" width="30px"> PyPI Packages
+### <img src="https://pypi.org/static/images/logo-small.0e0855d0.svg" width="30px"> PyPI Packages
 
 <table width="100%">
   <tr>

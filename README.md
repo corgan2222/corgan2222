@@ -234,11 +234,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
-2. ℹ️ Labeled PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
-3. ℹ️ Unlabeled PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
-4. 💪 Opened PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
-5. 🗣 Commented on [#8851](https://github.com/hacs/default/pull/8851#issuecomment-5370575048) in [hacs/default](https://github.com/hacs/default)
+1. 🎉 Merged PR [#8844](https://github.com/hacs/default/pull/8844) in [hacs/default](https://github.com/hacs/default)
+2. 🎉 Merged PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
+3. ℹ️ Labeled PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
+4. ℹ️ Unlabeled PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
+5. 💪 Opened PR [#34](https://github.com/corgan2222/context-manager/pull/34) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
 <!--END_SECTION:activity-->
 
 <!--

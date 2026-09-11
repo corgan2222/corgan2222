@@ -234,11 +234,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/corgan2222/video-tldr/pull/15) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
-2. 💪 Opened PR [#15](https://github.com/corgan2222/video-tldr/pull/15) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
-3. 🎉 Merged PR [#14](https://github.com/corgan2222/video-tldr/pull/14) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
-4. 💪 Opened PR [#14](https://github.com/corgan2222/video-tldr/pull/14) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
-5. 🎉 Merged PR [#13](https://github.com/corgan2222/video-tldr/pull/13) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
+1. 🎉 Merged PR [#19](https://github.com/corgan2222/video-tldr/pull/19) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
+2. ❌ Closed PR [#5](https://github.com/corgan2222/video-tldr/pull/5) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
+3. ❌ Closed PR [#3](https://github.com/corgan2222/video-tldr/pull/3) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
+4. ❌ Closed PR [#2](https://github.com/corgan2222/video-tldr/pull/2) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
+5. ❌ Closed PR [#1](https://github.com/corgan2222/video-tldr/pull/1) in [corgan2222/video-tldr](https://github.com/corgan2222/video-tldr)
 <!--END_SECTION:activity-->
 
 <!--

@@ -234,11 +234,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/corgan2222/dotfiles/pull/8) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-2. 🎉 Merged PR [#7](https://github.com/corgan2222/dotfiles/pull/7) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-3. 💪 Opened PR [#8](https://github.com/corgan2222/dotfiles/pull/8) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-4. 💪 Opened PR [#7](https://github.com/corgan2222/dotfiles/pull/7) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
-5. 🎉 Merged PR [#6](https://github.com/corgan2222/dotfiles/pull/6) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+1. 💪 Opened PR [#19](https://github.com/corgan2222/dotfiles/pull/19) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+2. ❌ Closed PR [#10](https://github.com/corgan2222/dotfiles/pull/10) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+3. ℹ️ Reopened PR [#10](https://github.com/corgan2222/dotfiles/pull/10) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+4. 💪 Opened PR [#18](https://github.com/corgan2222/dotfiles/pull/18) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
+5. 💪 Opened PR [#17](https://github.com/corgan2222/dotfiles/pull/17) in [corgan2222/dotfiles](https://github.com/corgan2222/dotfiles)
 <!--END_SECTION:activity-->
 
 <!--

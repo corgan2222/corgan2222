@@ -24,6 +24,13 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 
 ## <img src="https://raw.githubusercontent.com/corgan2222/Dashboard/refs/heads/master/assets/logo_inv.png" width="30px"> My projects
 
+### <img src="https://raw.githubusercontent.com/corgan2222/StreamProx/main/images/streamprox-app-icon-288.png" width="30px"> Proxmox Streamdeck App
+<table width="100%">
+<tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/StreamProx/main/images/streamprox-app-icon-288.png" width="32px"></td>
+  <td width="260"><a href="https://github.com/corgan2222/StreamProx">StreamProx</a></td>
+  <td>Proxmox VE, Docker (Portainer) and ProxMenux live on the Elgato Stream Deck. Get it on the <a href="https://marketplace.elgato.com/product/streamprox-17149f67-b70e-453c-b242-dfdf07502794">Elgato Marketplace</a></td></tr>
+</table>
+
 ### <img src="https://raw.githubusercontent.com/corgan2222/rig-exporter/refs/heads/main/docs/images/favicon-64.png" width="30px"> Telemetry
 <table width="100%">
 <tr><td width="50"><img src="https://raw.githubusercontent.com/corgan2222/rig-exporter/refs/heads/main/docs/images/favicon-64.png" width="32px"></td>

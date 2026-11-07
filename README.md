@@ -241,11 +241,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#50](https://github.com/corgan2222/ha-clawdmeter/issues/50) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
-2. ℹ️ Labeled issue [#50](https://github.com/corgan2222/ha-clawdmeter/issues/50) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
-3. 🗣 Commented on [#8851](https://github.com/hacs/default/pull/8851#issuecomment-6690861159) in [hacs/default](https://github.com/hacs/default)
-4. 🎉 Merged PR [#98](https://github.com/corgan2222/ha-milesight-gateway/pull/98) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-5. ℹ️ Labeled PR [#98](https://github.com/corgan2222/ha-milesight-gateway/pull/98) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+1. 🎉 Merged PR [#1](https://github.com/corgan2222/corgan2222/pull/1) in [corgan2222/corgan2222](https://github.com/corgan2222/corgan2222)
+2. 💪 Opened PR [#1](https://github.com/corgan2222/corgan2222/pull/1) in [corgan2222/corgan2222](https://github.com/corgan2222/corgan2222)
+3. 🚀 Published release [StreamProx 1.2](https://github.com/corgan2222/StreamProx/releases/tag/v1.2.0) in [corgan2222/StreamProx](https://github.com/corgan2222/StreamProx)
+4. 🎉 Merged PR [#1](https://github.com/corgan2222/StreamProx/pull/1) in [corgan2222/StreamProx](https://github.com/corgan2222/StreamProx)
+5. 💪 Opened PR [#1](https://github.com/corgan2222/StreamProx/pull/1) in [corgan2222/StreamProx](https://github.com/corgan2222/StreamProx)
 <!--END_SECTION:activity-->
 
 <!--

@@ -241,11 +241,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/26) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-2. ℹ️ Labeled PR [#26](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/26) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-3. 💪 Opened PR [#26](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/26) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
-4. 🎉 Merged PR [#59](https://github.com/corgan2222/context-manager/pull/59) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
-5. ℹ️ Labeled PR [#59](https://github.com/corgan2222/context-manager/pull/59) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
+1. 🎉 Merged PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+2. ℹ️ Labeled PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+3. 💪 Opened PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+4. 🎉 Merged PR [#19](https://github.com/corgan2222/lovelace-clawdmeter/pull/19) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+5. ℹ️ Labeled PR [#19](https://github.com/corgan2222/lovelace-clawdmeter/pull/19) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
 <!--END_SECTION:activity-->
 
 <!--

@@ -241,11 +241,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#65](https://github.com/corgan2222/Dashboard/pull/65) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-2. ℹ️ Labeled PR [#65](https://github.com/corgan2222/Dashboard/pull/65) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-3. 💪 Opened PR [#65](https://github.com/corgan2222/Dashboard/pull/65) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-4. 🎉 Merged PR [#64](https://github.com/corgan2222/Dashboard/pull/64) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
-5. ℹ️ Labeled PR [#64](https://github.com/corgan2222/Dashboard/pull/64) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+1. 🎉 Merged PR [#26](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/26) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+2. ℹ️ Labeled PR [#26](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/26) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+3. 💪 Opened PR [#26](https://github.com/corgan2222/esphome-modular-lvgl-buttons/pull/26) in [corgan2222/esphome-modular-lvgl-buttons](https://github.com/corgan2222/esphome-modular-lvgl-buttons)
+4. 🎉 Merged PR [#59](https://github.com/corgan2222/context-manager/pull/59) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
+5. ℹ️ Labeled PR [#59](https://github.com/corgan2222/context-manager/pull/59) in [corgan2222/context-manager](https://github.com/corgan2222/context-manager)
 <!--END_SECTION:activity-->
 
 <!--

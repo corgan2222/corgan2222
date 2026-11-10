@@ -241,11 +241,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/corgan2222/corgan2222/pull/1) in [corgan2222/corgan2222](https://github.com/corgan2222/corgan2222)
-2. 💪 Opened PR [#1](https://github.com/corgan2222/corgan2222/pull/1) in [corgan2222/corgan2222](https://github.com/corgan2222/corgan2222)
-3. 🚀 Published release [StreamProx 1.2](https://github.com/corgan2222/StreamProx/releases/tag/v1.2.0) in [corgan2222/StreamProx](https://github.com/corgan2222/StreamProx)
-4. 🎉 Merged PR [#1](https://github.com/corgan2222/StreamProx/pull/1) in [corgan2222/StreamProx](https://github.com/corgan2222/StreamProx)
-5. 💪 Opened PR [#1](https://github.com/corgan2222/StreamProx/pull/1) in [corgan2222/StreamProx](https://github.com/corgan2222/StreamProx)
+1. 🎉 Merged PR [#65](https://github.com/corgan2222/Dashboard/pull/65) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+2. ℹ️ Labeled PR [#65](https://github.com/corgan2222/Dashboard/pull/65) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+3. 💪 Opened PR [#65](https://github.com/corgan2222/Dashboard/pull/65) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+4. 🎉 Merged PR [#64](https://github.com/corgan2222/Dashboard/pull/64) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
+5. ℹ️ Labeled PR [#64](https://github.com/corgan2222/Dashboard/pull/64) in [corgan2222/Dashboard](https://github.com/corgan2222/Dashboard)
 <!--END_SECTION:activity-->
 
 <!--

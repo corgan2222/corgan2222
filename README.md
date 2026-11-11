@@ -241,11 +241,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-2. ℹ️ Labeled PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-3. 💪 Opened PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-4. 🎉 Merged PR [#19](https://github.com/corgan2222/lovelace-clawdmeter/pull/19) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
-5. ℹ️ Labeled PR [#19](https://github.com/corgan2222/lovelace-clawdmeter/pull/19) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+1. ℹ️ Labeled PR [#55](https://github.com/corgan2222/ha-clawdmeter/pull/55) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+2. 💪 Opened PR [#55](https://github.com/corgan2222/ha-clawdmeter/pull/55) in [corgan2222/ha-clawdmeter](https://github.com/corgan2222/ha-clawdmeter)
+3. 🎉 Merged PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+4. ℹ️ Labeled PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
+5. 💪 Opened PR [#20](https://github.com/corgan2222/lovelace-clawdmeter/pull/20) in [corgan2222/lovelace-clawdmeter](https://github.com/corgan2222/lovelace-clawdmeter)
 <!--END_SECTION:activity-->
 
 <!--

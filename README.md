@@ -241,11 +241,11 @@ I’m an IoT Project Engineer, Developer, IT professional, Photographer and Film
 ## Latest activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#105](https://github.com/corgan2222/ha-milesight-gateway/pull/105) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-2. 🎉 Merged PR [#4](https://github.com/corgan2222/Milesight-Gateway-API/pull/4) in [corgan2222/Milesight-Gateway-API](https://github.com/corgan2222/Milesight-Gateway-API)
-3. 🚀 Published release [v1.5.0b1](https://github.com/corgan2222/ha-milesight-gateway/releases/tag/1.5.0b1) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-4. ℹ️ Labeled PR [#105](https://github.com/corgan2222/ha-milesight-gateway/pull/105) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
-5. 💪 Opened PR [#105](https://github.com/corgan2222/ha-milesight-gateway/pull/105) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+1. 🗣 Commented on [#8851](https://github.com/hacs/default/pull/8851#issuecomment-7144795367) in [hacs/default](https://github.com/hacs/default)
+2. 🎉 Merged PR [#105](https://github.com/corgan2222/ha-milesight-gateway/pull/105) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+3. 🎉 Merged PR [#4](https://github.com/corgan2222/Milesight-Gateway-API/pull/4) in [corgan2222/Milesight-Gateway-API](https://github.com/corgan2222/Milesight-Gateway-API)
+4. 🚀 Published release [v1.5.0b1](https://github.com/corgan2222/ha-milesight-gateway/releases/tag/1.5.0b1) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
+5. ℹ️ Labeled PR [#105](https://github.com/corgan2222/ha-milesight-gateway/pull/105) in [corgan2222/ha-milesight-gateway](https://github.com/corgan2222/ha-milesight-gateway)
 <!--END_SECTION:activity-->
 
 <!--
